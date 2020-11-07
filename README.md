@@ -10,3 +10,4 @@ To use this script:
 Sample:
 
 <img src="results/US2020Election_California.png">
+# USElection2020
