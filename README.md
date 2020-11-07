@@ -10,4 +10,6 @@ Sample:
 
 <img src="results/US2020Election_California.png">  
 
+Disclaimer: this is only for visualization purposes. Data are not quite accurate, consult official sites for more accrate data. Also I am not a programmer, so the code might be rough :)
+
 #USElection2020
