@@ -1,4 +1,4 @@
-This simple Ipython script plots in different ways the US 2020 Election Data that were retrieved from:  
+This simple Ipython script plots different ways the US 2020 Election Data that were retrieved from:  
 
 https://github.com/alex/nyt-2020-election-scraper  
 
